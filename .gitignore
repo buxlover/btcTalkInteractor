@@ -137,3 +137,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Compressed files
+*.zip
+*.7z
+*.rar
